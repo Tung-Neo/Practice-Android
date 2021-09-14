@@ -1,4 +1,4 @@
-package mazept.weathermap;
+package mezupt.WeatherMap;
 
 import org.junit.Test;
 
